@@ -1,4 +1,4 @@
-life_form,cost,link
+name,cost,URL
 Plant 1,$10,http://example.com/plant1
 Plant 2,$20,http://example.com/plant2
 Plant 3,$30,http://example.com/plant3
